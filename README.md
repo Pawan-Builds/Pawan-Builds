@@ -1,5 +1,5 @@
 # 💫 About Me:
-Completed B.tech in CSE with devOps specialization and doing courser in multicloud devops
+I'm a Computer Science Engineering graduate with a specialization in DevOps, passionate about building scalable and efficient cloud infrastructure. Currently expanding my expertise through hands-on training in multi-cloud environments, AWS services, Linux system administration, and advanced DevOps practices. I'm focused on mastering CI/CD pipelines, infrastructure as code, containerization, and cloud automation to drive seamless software delivery and operational excellence.
 
 
 ## 🌐 Socials:
