@@ -1,18 +1,94 @@
-# 💫 About Me:
-I'm a Computer Science Engineering graduate with a specialization in DevOps, passionate about building scalable and efficient cloud infrastructure. Currently expanding my expertise through hands-on training in multi-cloud environments, AWS services, Linux system administration, and advanced DevOps practices. I'm focused on mastering CI/CD pipelines, infrastructure as code, containerization, and cloud automation to drive seamless software delivery and operational excellence.
+<!-- Futuristic AI DevOps Profile -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Pawan+Singh+M;DevOps+Engineer;AI-Driven+Automation;Cloud+%7C+Containers+%7C+CI%2FCD" />
+</h1>
 
-## 🌐 Socials:
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.instagram.com/_pawan._.singh._.m_))](https://instagram.com/ _pawan._.singh._.m_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pawan-singh-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawanm2307@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pawan-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pawan-Builds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Themed-DevOps%20Profile-0ff?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pawan-Builds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 About Me
+
+🚀 DevOps enthusiast focused on **automation, cloud, and AI-driven infrastructure**  
+🛠 Passionate about building scalable, reliable, and intelligent systems  
+📚 Currently learning **advanced DevOps and cloud-native tools**
+
+---
+
+## ⚡ Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔁 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Scripting
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔧 **Kubernetes CI/CD Pipeline**
+- ☁️ **Terraform Multi-Cloud Setup**
+- 📦 **Dockerized Microservices Deployment**
+- 📊 **Monitoring Stack with Prometheus & Grafana**
+
+---
+
+## 🧠 AI + DevOps Focus
+
+- 🤖 AI-based log analysis
+- 📈 Predictive auto-scaling
+- 🛡 Intelligent failure detection
+- 🔄 Self-healing infrastructure concepts
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-Builds&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Builds&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Pawan-Builds">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Automating the future with intelligent infrastructure.”
+</p>
