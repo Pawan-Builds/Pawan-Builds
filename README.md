@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Pawan+Singh+M;DevOps+Engineer;AI-Driven+Automation;Cloud+%7C+Containers+%7C+CI%2FCD" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Themed-DevOps%20Profile-0ff?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 ---
 
 ## 🤖 About Me
