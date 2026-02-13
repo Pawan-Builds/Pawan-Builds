@@ -1,128 +1,130 @@
-# 🤖 About Me
+<!-- AI DevOps Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Pawan+Singh+M;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;AI-Driven+Infrastructure" />
+</h1>
 
-**Name:** [Your Name]  
-**Role:** DevOps Engineer  
-**Location:** [Your Location]  
-
-### 🔭 Focus Areas
-- Cloud-Native Architecture
-- AI-Driven Automation
-- Infrastructure at Scale
-- Intelligent Monitoring Systems
-
-### 🎯 Mission
-> Bridging the gap between DevOps and AI to build self-healing, predictive infrastructure that scales with intelligence.
-
-I’m a DevOps engineer passionate about leveraging AI to revolutionize infrastructure management.  
-I specialize in building automated, scalable systems that don’t just respond to issues—they predict and prevent them before they happen.
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-AI%20Themed-00F7FF?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-# ⚙️ Tech Stack
+## 🤖 About Me
 
-## ☁️ Cloud
+**Name:** Pawan Singh M  
+**Role:** DevOps Engineer  
+**Location:** India  
+
+### 🔭 Focus Areas
+- Cloud-Native Architecture
+- CI/CD Automation
+- Infrastructure as Code
+- Containerized Applications
+- Monitoring & Observability
+
+### 🎯 Mission
+> Building automated, scalable, and intelligent infrastructure that is reliable, efficient, and future-ready.
+
+I’m a DevOps engineer passionate about automation, cloud technologies, and building scalable systems.  
+I focus on creating reliable CI/CD pipelines, infrastructure as code, and containerized environments.
+
+---
+
+## ⚙️ Tech Stack
+
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
 
-## 🐳 Containers & Orchestration
+### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🔁 CI/CD
+### 🔁 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🏗 Infrastructure as Code
+### 🏗 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📊 Monitoring & Observability
+### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 💻 Scripting & Languages
+### 💻 Scripting
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured DevOps Projects
 
-## 🔹 K8s-AI-Operator
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/USERNAME/k8s-ai-operator)
+### 🔹 DevOps CI/CD Microservice
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Pawan-Builds/devops-cicd-microservice)
 
-Kubernetes operator powered by ML for intelligent pod scheduling and resource optimization.
+End-to-end CI/CD pipeline for a microservice application using Docker, Jenkins, and Kubernetes.
 
-**Tech:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**Tech:** Docker • Jenkins • GitHub Actions • Kubernetes
 
 ---
 
-## 🔹 InfraPredict
-[![View Project](https://img.shields.io/badge/View_Project-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/USERNAME/infrapredict)
+### 🔹 Terraform AWS DevOps Infrastructure
+[![View Project](https://img.shields.io/badge/View_Project-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Pawan-Builds/terraform-aws-devops-infra)
 
-AI-driven infrastructure failure prediction using time-series analysis and anomaly detection.
+Provisioned a scalable AWS environment using Terraform with networking, compute, and DevOps-ready infrastructure.
 
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Tech:** Terraform • AWS • VPC • EC2
 
 ---
 
-## 🔹 AutoScaler Pro
-[![View Project](https://img.shields.io/badge/View_Project-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/USERNAME/autoscaler-pro)
+### 🔹 Task Manager Application
+[![View Project](https://img.shields.io/badge/View_Project-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Pawan-Builds/task-manager)
 
-Predictive auto-scaling system that anticipates traffic patterns using neural networks.
+Containerized task management application demonstrating deployment, automation, and service orchestration.
 
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**Tech:** Docker • Node.js • MongoDB
 
 ---
 
-## 🔹 GuardAI
-[![View Project](https://img.shields.io/badge/View_Project-00F5D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/USERNAME/guardai)
+## 🧠 DevOps Philosophy
 
-AI-powered security scanning for CI/CD pipelines with intelligent threat detection.
+| Principle | Approach |
+|-----------|----------|
+| Automation First | Reduce manual tasks using CI/CD and scripts |
+| Infrastructure as Code | Version-controlled, repeatable environments |
+| Observability | Monitor systems with real-time metrics and alerts |
+| Scalability | Design systems that grow with demand |
+| Reliability | Build fault-tolerant and self-healing systems |
 
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-# 🧠 AI + DevOps: The Future of Infrastructure
-
-| Capability | Description |
-|-----------|-------------|
-| AI-Based Monitoring | Intelligent anomaly detection that reduces false positives |
-| Predictive Scaling | ML models forecast traffic spikes and pre-scale infrastructure |
-| Intelligent Automation | Self-healing systems that auto-remediate common issues |
-| Smart Log Analysis | NLP-powered log analysis for root-cause detection |
-| AIOps Integration | Correlates events to prevent cascading failures |
-
-> “The future of DevOps isn’t just automation—it’s intelligent automation that learns, adapts, and evolves with your infrastructure.”
+> “Great DevOps is invisible to users but essential to reliability.”
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-Builds&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Builds&theme=tokyonight" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: your@email.com
+<p align="center">
+  <a href="https://github.com/Pawan-Builds">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Automating infrastructure for a smarter, faster, and more reliable future.
+</p>
